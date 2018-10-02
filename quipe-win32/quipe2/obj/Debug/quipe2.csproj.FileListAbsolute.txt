@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\bin\Debug\quipe2.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\bin\Debug\quipe2.exe
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\bin\Debug\quipe2.pdb
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.exe
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.pdb
+c:\users\adam\documents\visual studio 2015\Projects\quipe2\quipe2\obj\Debug\quipe2.csprojResolveAssemblyReference.cache

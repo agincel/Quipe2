@@ -1,0 +1,20 @@
+{
+  "name": "quipe-service",
+  "version": "1.0.0",
+  "description": "Hosts the quipe database on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Adam Gincel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "stream": "0.0.2",
+    "url": "^0.11.0",
+    "xlsx": "^0.11.0"
+  }
+}
